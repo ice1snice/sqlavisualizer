@@ -7,7 +7,7 @@ with open('requirements.txt') as requirements:
 
 
 setuptools.setup(
-    name='edu-flask-utils',
+    name='sqlavisualizer',
     version=version,
     packages=setuptools.find_packages(),
     install_requires=requires,
